@@ -1,6 +1,0 @@
-
-new pizza
-
-order
-
-delivered by vehicle
